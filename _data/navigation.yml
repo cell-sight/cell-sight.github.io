@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "About"
+    url: _pages/about/
+  - title: "Requirements"
+    url: _pages/requirements/
+  - title: "Documentation"
+    url: _pages/documentation/
+  - title: "Media"
+    url: _pages/media/
