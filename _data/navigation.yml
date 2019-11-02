@@ -8,3 +8,5 @@ main:
     url: _pages/documentation/
   - title: "Media"
     url: _pages/media/
+  - title: "Contact Us"
+    url: _pages/contact/
