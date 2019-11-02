@@ -1,6 +1,6 @@
 ---
 layout: pages
-title:  "About Cellsight"
+title:  "Requirements"
 minimal_mistakes_skin    : "air"
 author_profile: false
 ---
